@@ -3,7 +3,10 @@
 > 누마즈를 여행하는 모든 러브라이버를 위한 안내서
 
 > 사용법을 모르는데, 기여하고 싶다면: [링크](https://github.com/zensokuzenshin/awesome-numazu/issues/new)를 통해 이슈를 작성해주세요
-
+---
+## 성지순례 지도
+- [지도 1](https://www.google.com/maps/d/viewer?mid=16GBe-gVf0kNOpp3k5VwhZ1BeuOPJVD_j&ll=34.99922764864058%2C139.1321709974002&z=10)
+- [지도 2](https://www.google.com/maps/d/u/0/viewer?mid=1uN-dQ1j26ZJgeFGbm1Nn3rfxxwkHtCs&ll=-3.81666561775622e-14%2C148.72909855&z=2)
 ---
 ## 교통편
 
