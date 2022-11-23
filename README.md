@@ -7,6 +7,9 @@
 ---
 ## 교통편
 
-
+- [스마트EX 영어 사이트(가입시 일본번호 필요X)](https://smart-ex.jp/en/index.php)
+- [스마트EX로 신칸센 예약하기](https://uh.dcmys.kr/1138)
+- [후지노쿠니 이에야스 킷푸 구매하기](https://gall.dcinside.com/mgallery/board/view/?id=sunshine&no=2652340)
+  - 현재 가격 인상되어 1600엔
 
 Work in progress
