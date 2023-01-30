@@ -14,5 +14,11 @@
 - [스마트EX로 신칸센 예약하기](https://uh.dcmys.kr/1138)
 - [후지노쿠니 이에야스 킷푸 구매하기](https://gall.dcinside.com/mgallery/board/view/?id=sunshine&no=2652340)
   - 현재 가격 인상되어 1600엔
+---
+## 스탬프 지도
+자세한 내용은 [공식 사이트](https://www.llsunshine-numazu.jp/) 참고
+- [지도](https://www.google.com/maps/d/viewer?mid=1hQhJDhsE87Iu9BJOln-EnveGbow&usp=sharing)
+
+
 
 Work in progress
